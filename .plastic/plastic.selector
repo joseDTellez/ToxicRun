@@ -1,0 +1,4 @@
+repository "ToxicRun@jodateru@cloud"
+  path "/"
+    br "/main"
+    co "/main"
