@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FinalPoint
   layers:
   - Default
   - TransparentFX
@@ -38,15 +39,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Botones
-    uniqueID: 3586167265
-    locked: 0
-  - name: opciones
-    uniqueID: 242895249
-    locked: 0
-  - name: square
-    uniqueID: 1003432211
-    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 1690582089
+    locked: 0
+  - name: 'Suelo '
+    uniqueID: 3586167265
+    locked: 0
+  - name: Enemigos
+    uniqueID: 242895249
+    locked: 0
+  - name: jugador
+    uniqueID: 1003432211
+    locked: 0
+  - name: detalles
+    uniqueID: 1438389137
     locked: 0
