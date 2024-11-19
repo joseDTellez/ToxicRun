@@ -95,7 +95,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "da\xF1o prota_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8adab7f9266ae4bb4894a2f2ff77ee
+      internalID: 1067148078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o prota_1"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 272
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d099ba2bd80a4aa5fb8afce65956f
+      internalID: 1028526058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o prota_2"
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 275
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad88cd04126307479e1b3aaa7af8803
+      internalID: -631930825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o prota_3"
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 268
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c982d8c25ad54ba6a32d957f0dd48
+      internalID: -675887933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o prota_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 289
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff678c5a54038479490d000136f482
+      internalID: 472225284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o prota_5"
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 517
+        width: 275
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5409efdd3d1e7049bef02b1aab5132d
+      internalID: -372816200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +232,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "da\xF1o prota_0": 1067148078
+      "da\xF1o prota_1": 1028526058
+      "da\xF1o prota_2": -631930825
+      "da\xF1o prota_3": -675887933
+      "da\xF1o prota_4": 472225284
+      "da\xF1o prota_5": -372816200
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

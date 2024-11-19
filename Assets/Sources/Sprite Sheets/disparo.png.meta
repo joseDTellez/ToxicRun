@@ -95,7 +95,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: disparo_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850a3fe22c50584a8b38c8ca84a6266
+      internalID: -669185555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f347cb7987b841a026992de3ddc01
+      internalID: -625304492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 563
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85da0f31dabcaf143912265098ba21e6
+      internalID: 1206251091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 302
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f146e8c85e6246b7f018dbd8c0235
+      internalID: 121644960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 37
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695bdc8355f01245b4b12eb76192939
+      internalID: 1874305794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 41
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f73c790ab3a034ea4912c3051f11ff
+      internalID: -1843184262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700b51962276d947bd6ef9991ea1fc2
+      internalID: -222100720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839f2b4a85850c1469f3885323fe2dec
+      internalID: -243383508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 288
+        width: 231
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd0df98bef1dee48989e50eea02ba55
+      internalID: -2042107122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparo_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 560
+        width: 232
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4992649b6e1d5444c8f6c7a146bb2884
+      internalID: -250056550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +316,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      disparo_0: -515532044
+      disparo_1: -250056550
+      disparo_10: 121644960
+      disparo_11: -2042107122
+      disparo_12: 990789661
+      disparo_13: 1814436578
+      disparo_14: -141100098
+      disparo_15: 1998002730
+      disparo_16: 675128247
+      disparo_17: 1175643866
+      disparo_18: 1356687307
+      disparo_19: -669185555
+      disparo_2: 1967733075
+      disparo_20: -625304492
+      disparo_21: -404654557
+      disparo_22: -976061732
+      disparo_23: -1643239924
+      disparo_3: 1874305794
+      disparo_4: 1851628532
+      disparo_5: -1843184262
+      disparo_6: -222100720
+      disparo_7: -1507615639
+      disparo_8: -243383508
+      disparo_9: 1206251091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

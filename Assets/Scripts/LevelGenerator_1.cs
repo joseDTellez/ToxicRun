@@ -14,7 +14,7 @@ public class LeveGenerator_1 : MonoBehaviour
 
     private Transform player;
 
-    private void Start()
+    private void Start()                 //iniciates a loop counter to create random layouts of platforms
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
 
@@ -25,7 +25,7 @@ public class LeveGenerator_1 : MonoBehaviour
     }
 
     
-    private void Update()
+    private void Update()               //player reachs the final dot to regenerate a loop again
     {
         if (Vector2.Distance(player.position, finalPoint.position) < minDistance)
         {
@@ -33,15 +33,15 @@ public class LeveGenerator_1 : MonoBehaviour
         }
     }
 
-    private void GeneratePartLevel()
+    private void GeneratePartLevel()   //distance where the new plataforms star to generate
     {
         int randonNumber = Random.Range(0, levelParts.Length);
         GameObject level = Instantiate(levelParts[randonNumber], finalPoint.position, Quaternion.identity);
         finalPoint = seekFinalPoint(level, "FinalPoint");    
-
+        
     }
 
-    private Transform seekFinalPoint(GameObject levelPart, string tag)
+    private Transform seekFinalPoint(GameObject levelPart, string tag)       //reset the point of regeneration after being reached by the player
     {
         Transform point = null;
 
